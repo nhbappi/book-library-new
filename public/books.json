@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "kite Runner",
+        "image": "https://cdn.lifehack.org/wp-content/uploads/2015/05/31055903/1-The-Kite-Runner-Riverhead-Edition.jpg",
+        "author": "Alister Cook",
+        "publish": "1998"
+    },
+    {
+        "id": 2,
+        "name": "The Book Thief",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWX9N9CY1iB3f77w6vFMFVoxMNrKvppSnWvFc5tO77hDnwL8XD-IFccQGOQL3K1NSzIpo&usqp=CAU",
+        "author": "Andre Donalt",
+        "publish": "1955"
+    },
+    {
+        "id": 3,
+        "name": "The Princes Bride",
+        "image": "https://media.npr.org/assets/bakertaylor/covers/t/the-princess-bride/9780156035217_custom-69cc59005e0af076765c029f6ec69ba6f123abaa-s300-c85.jpg",
+        "author": "Shiften John",
+        "publish": "1798"
+    },
+    {
+        "id": 4,
+        "name": "Where The Worlds End",
+        "image": "https://fivebooks.com/app/uploads/2018/02/1474943438.01.LZ_-314x479.jpg",
+        "author": "Prince Adam",
+        "publish": "1798"
+    },
+    {
+        "id": 5,
+        "name": "Shout",
+        "image": "https://d2wzqffx6hjwip.cloudfront.net/spree/images/attachments/000/041/972/product/9781925773682.jpg?1582311824",
+        "author": "Anjelina Jolly",
+        "publish": "1898"
+    },
+    {
+        "id": 6,
+        "name": "The Lucky Ones",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkFkIw5JRPnolkRiyje-wfnJyBussRsoRvA&usqp=CAU",
+        "author": "Kour Jonny",
+        "publish": "1798"
+    },
+    {
+        "id": 7,
+        "name": "In The Paint",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41YTCK4KYXL._SX312_BO1,204,203,200_.jpg",
+        "author": "Andre Bouchar",
+        "publish": "1898"
+    },
+    {
+        "id": 8,
+        "name": "Our Darkness Night",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqgyRoms-DnlbGvvymti48FXSKPidEG6_Dw&usqp=CAU",
+        "author": "Adil Aham",
+        "publish": "1928"
+    },
+    {
+        "id": 9,
+        "name": "Little Girls",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71QojVxBvDL.jpg",
+        "author": "Nicholas Fiyan",
+        "publish": "1978"
+    }
+ 
+    
+]
